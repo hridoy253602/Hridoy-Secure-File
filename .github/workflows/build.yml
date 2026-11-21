@@ -1,6 +1,6 @@
 name: Build Hridoy Secure File APK
 
-on:
+'on':
   workflow_dispatch:
   push:
     branches:
